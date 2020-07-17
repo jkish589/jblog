@@ -73,3 +73,4 @@ If you'd like to **use the template without the attribution**, you can [buy the 
 - [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 - [Highlight.js](https://highlightjs.org/)
 "# jblog" 
+"# jblog" 
